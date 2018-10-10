@@ -1,0 +1,9 @@
+server: 
+  port: 7272
+
+spring:
+  kafka:
+    bootstrap-servers: dev-works-changhoon02.ncl.nfra.io:9092
+    
+app: 
+  topic: test
